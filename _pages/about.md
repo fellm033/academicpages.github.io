@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Mason, but a few people close to me just call me Mas. I'm currently a post-bacc at the National Institute of Child and Human Development (NICHD). I've recently moved to the tropical Washington DC area from the figid Minneapolis/St. Paul area. I received my B.S. in neuroscience from the University of Minnesota Twin Cities (UMN) College of Biological Sciences and am currently intersted in pursuing an M.S. in genetic counseling.
 
-A data-driven personal website
+My current lab is looking into the physiology and treatements of lysosomal storage disorders. At the UMN, I worked on the effects of dopamine receptor activation in the role of striatal development. My roles in these labs centered around immunohistochemistry and microscope imaging. 
+
+After spending the past 5 years at a bench, I'm now ready to start working more with people and patients. My history in customer service and hospitality have shown me the joys (and sometime struggles) of working face-to-face with people. I like talking with people and using interpersonal communicaion to help find ways in solving their problems. 
+
+Outside of work and study, I have a passion for music. I'm currently being self-taught on the acoustic guitar. In the past, I've had experience in learning the piano and violin. I also enjoy scouting out new areas in the city and finding dive bars, brewerys, and distilleries to frequent. 
+
+"There is only one corner of the universe you can be certain of improving, and that's your own self" - Aldous Huxley
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
