@@ -17,4 +17,5 @@ After spending the past 5 years at a bench, I'm now ready to start working more 
 Outside of work and study, I have a passion for music. I'm currently being self-taught on the acoustic guitar. In the past, I've had experience in learning the piano and violin. I also enjoy scouting out new areas in the city and finding dive bars, brewerys, and distilleries to frequent. 
 
 "There is only one corner of the universe you can be certain of improving, and that's your own self" - Aldous Huxley
+
 ======
