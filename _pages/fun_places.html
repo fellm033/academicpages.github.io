@@ -1,12 +1,13 @@
 ---
 layout: archive
 title: "Noteworthy Places"
-permalink: /fun_places/
+permalink: /portfolio/
 author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% include base_path %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
 {% endfor %}
