@@ -83,7 +83,7 @@ author:
   bio              : "Current NICHD post-bacc and UMN graduate looking into the field of genetic counseling "
   location         : "Silver Spring/Bethesda, MD"
   employer         : "NICHD"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mason-fellmeth-299963123/"
+  linkedin         : "Mason Fellmeth"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
