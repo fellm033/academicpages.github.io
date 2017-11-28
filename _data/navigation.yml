@@ -10,5 +10,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Fun Places
+    url: /fun_places/
+    
   - title: "Guide"
     url: /markdown/
