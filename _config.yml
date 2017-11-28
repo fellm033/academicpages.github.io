@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mason Fellmeth"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Current NICHD post-bacc and UMN graduate looking into the field of genetic counseling "
+  location         : "Silver Spring/Bethesda, MD"
+  employer         : "NICHD"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "fellm033"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mason-fellmeth-299963123/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@MasonFellm033"
   vine             :
   weibo            :
   xing             :
