@@ -43,7 +43,7 @@ var addressPoints = [
     "9. Denizens Brewing Co."
     38.988585, 
      -77.027243
-  ]
+  ],
   [
     "10. The Big Hunt"
     38.908457,
