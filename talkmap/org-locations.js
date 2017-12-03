@@ -23,5 +23,6 @@ var addressPoints = [
     "New Glarus Brewing Company",
     42.794314,
      -89.630172
+  ]
   
 ];
