@@ -31,8 +31,8 @@ var addressPoints = [
   ],
   [
    "7. Popeyes on Lake Geneva",
-   2.590678, 
-    -88.435995
+   42.590670,
+    -88.435963
   ],
   [
    "8. The Empirical Taproom",
