@@ -35,17 +35,17 @@ var addressPoints = [
     -88.435995
   ],
   [
-   "8. The Empirical Taproom"
+   "8. The Empirical Taproom",
    42.008069, 
     -87.665222
   ],
   [
-    "9. Denizens Brewing Co."
+    "9. Denizens Brewing Co.",
     38.988585, 
      -77.027243
   ],
   [
-    "10. The Big Hunt"
+    "10. The Big Hunt",
     38.908457,
      -77.042436
   ]
