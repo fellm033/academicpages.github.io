@@ -5,9 +5,8 @@ permalink: /places/
 author_profile: true
 ---
 
-{% include base_path %}
+<p style="text-decoration:underline;"><a href="/talkmap.html">See Mason's top 10 brew pics from midwest to east coast!</a></p>
 
-
-{% for post in site.places %}
-  {% include archive-single.html %}
+{% for post in site.places reversed %}
+  {% include archive-single-talk.html %}
 {% endfor %}
