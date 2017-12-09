@@ -1,11 +1,12 @@
 ---
 title: "Surly Brewing Co."
 collection: places
-type: "Top Picks"
 permalink: /places/pickno1
-venue: "Suly Brewing Company"
+venue: "Surly Brewing Co."
 location: "Minneapolis, MN"
+excerpt: "Mason's craft pick: Surly Furious"
+
 ---
 
-[More information here](http://surlybrewing.com)
+[Website link](http://surlybrewing.com)
 
